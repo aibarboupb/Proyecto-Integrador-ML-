@@ -63,4 +63,4 @@ streamlit run app.py
 
 ## Autor
 
-Jorge · Trabajo Integrador CRISP-DM
+Ana Milena Ibaarbo G · Trabajo Integrador CRISP-DM
